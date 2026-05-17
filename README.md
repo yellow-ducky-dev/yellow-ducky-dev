@@ -82,7 +82,7 @@ const rajaSikandar = {
 
 | 📦 Feature Releases | 🚀 Live Production Apps | 🔐 Security-First |
 |:---:|:---:|:---:|
-| **3+** | **3** | **Always** |
+| **3+** | **10+** | **Always** |
 
 </div>
 
