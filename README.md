@@ -89,12 +89,11 @@ const rajaSikandar = {
 ---
 
 ## // github stats
-
 <div align="center">
 
-![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajasikandar&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yellow-ducky-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajasikandar&theme=github_dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yellow-ducky-dev&theme=github_dark&hide_border=true&layout=compact)
 
 </div>
 
