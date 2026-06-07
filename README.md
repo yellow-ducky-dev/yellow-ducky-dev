@@ -17,7 +17,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rajasikandar.qzz.io-1a7f37?style=flat-square)](https://rajasikandar.qzz.io)
-[![Email](https://img.shields.io/badge/📧_Email-rajasikandar010@gmail.com-0c2d6b?style=flat-square)](mailto:rajasikandar010@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-rsikandar733@gmail.com-0c2d6b?style=flat-square)](mailto:rsikandar733@gmail.com)
 [![Status](https://img.shields.io/badge/🟢_Status-Open%20to%20Work-006400?style=flat-square)](#)
 
 </div>
@@ -103,8 +103,8 @@ const rajaSikandar = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rajasikandar010@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajasikandar010@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raja%20Sikandar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajasikandar)
+[![Email](https://img.shields.io/badge/Email-rsikandar733@gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsikandar733@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raja%20Sikandar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-sikandar-7242013a0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rajasikandar.qzz.io-1a7f37?style=for-the-badge&logo=safari&logoColor=white)](https://rajasikandar.qzz.io)
 
 ---
