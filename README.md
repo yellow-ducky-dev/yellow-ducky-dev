@@ -18,7 +18,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rajasikandar.qzz.io-1a7f37?style=flat-square)](https://rajasikandar.qzz.io)
 [![Email](https://img.shields.io/badge/📧_Email-rsikandar733@gmail.com-0c2d6b?style=flat-square)](mailto:rsikandar733@gmail.com)
-[![Status](https://img.shields.io/badge/🟢_Status-Open%20to%20Work-006400?style=flat-square)](#)
+<!-- [![Status](https://img.shields.io/badge/🟢_Status-Open%20to%20Work-006400?style=flat-square)](#) -->
 
 </div>
 
