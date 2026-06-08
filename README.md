@@ -1,19 +1,19 @@
 <!-- Raja Sikandar — github.com/rajasikandar -->
 
 # Stars
-![GitHub stars](https://img.shields.io/github/stars/yellow-ducky-dev/repo-name)
+![GitHub stars](https://img.shields.io/github/stars/yellow-ducky-dev/Profile)
 
 # License
-![License](https://img.shields.io/github/license/yellow-ducky-dev/repo-name)
+![License](https://img.shields.io/github/license/yellow-ducky-dev/Profile)
 
 # Last commit
-![Last commit](https://img.shields.io/github/last-commit/yellow-ducky-dev/repo-name)
+![Last commit](https://img.shields.io/github/last-commit/yellow-ducky-dev/Profile)
 
 # Repo size
-![Repo size](https://img.shields.io/github/repo-size/yellow-ducky-dev/repo-name)
+![Repo size](https://img.shields.io/github/repo-size/yellow-ducky-dev/Profile)
 
 # Top language
-![Top language](https://img.shields.io/github/languages/top/yellow-ducky-dev/repo-name)
+![Top language](https://img.shields.io/github/languages/top/yellow-ducky-dev/Profile)
 
 
 
