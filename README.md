@@ -1,6 +1,6 @@
 <!-- Raja Sikandar — github.com/rajasikandar -->
 
-# Stars
+<!--# Stars
 ![GitHub stars](https://img.shields.io/github/stars/yellow-ducky-dev/Profile)
 
 # License
@@ -14,7 +14,7 @@
 
 # Top language
 ![Top language](https://img.shields.io/github/languages/top/yellow-ducky-dev/Profile)
-
+-->
 
 
 
