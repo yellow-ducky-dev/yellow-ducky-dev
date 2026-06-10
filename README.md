@@ -113,6 +113,10 @@ const rajaSikandar = {
 
 ![Raja's GitHub Stats](https://github-readme-stats-six-sandy-o69d1416r5.vercel.app/api?username=yellow-ducky-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
+![Raja's GitHub Stats](https://github-readme-stats-six-sandy-o69d1416r5.vercel.app/api?username=yellow-ducky-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&v=1)
+
+![Top Languages](https://github-readme-stats-six-sandy-o69d1416r5.vercel.app/api/top-langs/?username=yellow-ducky-dev&theme=github_dark&hide_border=true&layout=compact&v=1)
+
 ![Top Languages](https://github-readme-stats-six-sandy-o69d1416r5.vercel.app/api/top-langs/?username=yellow-ducky-dev&theme=github_dark&hide_border=true&layout=compact)
 
 </div>
