@@ -51,8 +51,8 @@ const rajaSikandar = {
   role       : "Full-Stack Developer",
   stack      : ["Angular", ".NET/ASP.NET Core", "MS SQL Server"],
   currently  : "B.Sc. Cyber Security @ Shifa Tameer-e-Milat University",
-  experience : "2 yrs @ IT Ramp — 3+ feature releases shipped",
-  shipped    : "3 live production web applications",
+  experience : "2 yrs @ Full Stack Development — 10+ feature releases shipped",
+  shipped    : "6 live production web applications",
   languages  : ["English (fluent)", "Urdu (native)", "German (basic)"],
   superpower : "Security-conscious code at every layer of the stack",
   funFact    : "I obsess over API response times 🚀",
@@ -68,7 +68,7 @@ const rajaSikandar = {
 | **Frontend** | Angular · Ionic · Next.js · HTML5 · CSS3/SCSS · JavaScript ES6+ |
 | **Backend** | .NET / ASP.NET Core · Express.js · FastAPI (Python) |
 | **Database** | MS SQL Server · MySQL · Schema Design · Stored Procedures |
-| **DevOps** | Docker · Git · GitHub · CI/CD basics |
+| **DevOps** | Docker · Git · GitHub · CI/CD basics · Microsoft AZURE |
 | **Security** | Network Security · Cryptography · Secure Software Development |
 
 ---
